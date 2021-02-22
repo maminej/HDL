@@ -1,0 +1,16 @@
+19:00:10 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\HDL\Lab_1\temp_xsdb_launch_script.tcl
+19:00:11 INFO  : Registering command handlers for Vitis TCF services
+19:00:19 INFO  : XSCT server has started successfully.
+19:00:21 INFO  : Platform repository initialization has completed.
+19:00:27 INFO  : Successfully done setting XSCT server connection channel  
+19:00:27 INFO  : plnx-install-location is set to ''
+19:00:27 INFO  : Successfully done query RDI_DATADIR 
+19:00:27 INFO  : Successfully done setting workspace for the tool. 
+19:09:16 INFO  : Result from executing command 'getProjects': design_1_wrapper
+19:09:16 INFO  : Result from executing command 'getPlatforms': 
+19:09:17 WARN  : An unexpected exception occurred in the module 'platform project logging'
+19:09:19 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+19:09:38 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+19:10:38 INFO  : Result from executing command 'getProjects': design_1_wrapper
+19:10:38 INFO  : Result from executing command 'getPlatforms': design_1_wrapper|C:/HDL/Lab_1/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm
+19:10:38 INFO  : Checking for BSP changes to sync application flags for project 'Hello_World'...
